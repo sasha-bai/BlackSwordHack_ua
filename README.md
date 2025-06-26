@@ -20,4 +20,3 @@
 Хочете запропонувати правки?  
 Напишіть перекладачу в [Telegram](https://t.me/Eshin_nightrunner)  
 або залиште коментар у цьому [Google Документі](https://docs.google.com/document/d/1cPXfUK2AHAA2oEbizsnAyHmmRywER8HQCUyQuHW5_hc/edit?usp=sharing)
-
