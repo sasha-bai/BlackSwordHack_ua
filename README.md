@@ -1,17 +1,23 @@
 # Black Sword Hack SRD Українською 🇺🇦
 
-Переклад Олександра Бая
+Переклад: Олександр Бай
 
-## Ліцензія
+## 📜 Ліцензія
 
-Цей переклад базується на [оригінальному проєкті Black Sword Hack](https://github.com/BlackSwordHack/BlackSwordHack.github.io), автор — Kobayashi, ліцензовано за [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+Цей переклад базується на [оригінальному проєкті Black Sword Hack](https://github.com/BlackSwordHack/BlackSwordHack.github.io)  
+Автор оригіналу: **Kobayashi**  
+Ліцензія: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
-Усі зміни, включно з українським перекладом, здійснені користувачем [Олександр Бай](https://github.com/sasha-bai).
+Усі зміни, включно з перекладом, здійснені користувачем [sasha-bai](https://github.com/sasha-bai)
 
-## Посилання
-Black Sword Hack можна купити [тут](https://www.themerrymushmen.com/product/black-sword-hack-ultimate-chaos-edition/) 
+## 🔗 Корисні посилання
 
-Оригінальний SRD можна почитати [тут](https://blackswordhack.github.io/index.html)
+- Придбати Black Sword Hack: [themerrymushmen.com](https://www.themerrymushmen.com/product/black-sword-hack-ultimate-chaos-edition/)  
+- Оригінальний SRD: [BlackSwordHack.github.io](https://blackswordhack.github.io/index.html)
 
+## 💬 Зворотний зв'язок
 
-Якщо хочете запропонувати зміни, напишіть в телеграм [перекладачу](https://t.me/Eshin_nightrunner) або залиште коментар в цьому [документі](https://docs.google.com/document/d/1cPXfUK2AHAA2oEbizsnAyHmmRywER8HQCUyQuHW5_hc/edit?usp=sharing)
+Хочете запропонувати правки?  
+Напишіть перекладачу в [Telegram](https://t.me/Eshin_nightrunner)  
+або залиште коментар у цьому [Google Документі](https://docs.google.com/document/d/1cPXfUK2AHAA2oEbizsnAyHmmRywER8HQCUyQuHW5_hc/edit?usp=sharing)
+
