@@ -7,7 +7,7 @@
 Цей переклад базується на [оригінальному проєкті Black Sword Hack](https://github.com/BlackSwordHack/BlackSwordHack.github.io)  
 Усі зміни, включно з перекладом, здійснені користувачем [sasha-bai](https://github.com/sasha-bai)
 
-Оригінальна гра **Black Sword Hack** створена автором **Kobayashi**.
+Оригінальна гра **Black Sword Hack** створена автором **Kobayashi** і видана **the Merry Mushmen**.
 
 Ліцензія: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
