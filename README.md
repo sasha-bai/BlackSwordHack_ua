@@ -8,6 +8,7 @@
 Усі зміни, включно з перекладом, здійснені користувачем [sasha-bai](https://github.com/sasha-bai)
 
 Оригінальна гра **Black Sword Hack** створена автором **Kobayashi**.
+
 Ліцензія: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Корисні посилання
